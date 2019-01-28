@@ -44,7 +44,7 @@ def run_test_beep_and_tone():
        -- tone method of the ToneMaker class
     """
     # -------------------------------------------------------------------------
-    # TODO: 4.  Implement and test this method.
+    # Done: 4.  Implement and test this method.
     # -------------------------------------------------------------------------
     # IMPORTANT:
     #   For testing the   beep   method,
