@@ -11,13 +11,13 @@ import time
 import math
 
 # -----------------------------------------------------------------------------
-# TODO 2:  With your instructor, do quiz questions 1 through 5.
+# Done 2:  With your instructor, do quiz questions 1 through 5.
 #          After you understand the answers to those questions,
 #          mark this _TODO_ as DONE.
 # -----------------------------------------------------------------------------
 
 # -----------------------------------------------------------------------------
-# TODO 3:  With your instructor, do quiz questions 6 through XXX.
+# Done 3:  With your instructor, do quiz questions 6 through XXX.
 #          After you understand the answers to those questions,
 #          mark this _TODO_ as DONE.
 # -----------------------------------------------------------------------------
@@ -70,7 +70,6 @@ def run_test_beep_and_tone():
         time.sleep(0.5)
 
 
-
 # -----------------------------------------------------------------------------
 # TODO 5:  With your instructor, do quiz questions XXX through XXX.
 #          After you understand the answers to those questions,
@@ -108,7 +107,7 @@ def run_test_go_straight_for_seconds():
     beeper.beep()
     drive_system.go_straight_for_seconds(2.5, -50)
     # -------------------------------------------------------------------------
-    # TODO: 6.  Run the above tests.  Be sure to understand the
+    # Done: 6.  Run the above tests.  Be sure to understand the
     #              go_straight_for_seconds   method of   DriveSystem.
     # -------------------------------------------------------------------------
 
@@ -143,7 +142,7 @@ def run_test_go_straight_for_inches_using_time():
     beeper.beep()
     drive_system.go_straight_for_inches_using_time(12, -50)
     # -------------------------------------------------------------------------
-    # TODO: 7.  Run the above tests.  Be sure to understand the
+    # Done: 7.  Run the above tests.  Be sure to understand the
     #              go_straight_for_inches_using_time   method of   DriveSystem.
     # -------------------------------------------------------------------------
 
@@ -185,7 +184,7 @@ def run_test_go_straight_for_inches_using_sensor():
     drive_system.go_straight_for_inches_using_sensor(12, -50)
 
     # -------------------------------------------------------------------------
-    # TODO: 9.  With your instructor, implement the
+    # Done: 9.  With your instructor, implement the
     #      go_straight_for_inches_using_sensor    method of   DriveSystem.
     #      The tests are already written for you -- READ THEM (above).
     # -------------------------------------------------------------------------
